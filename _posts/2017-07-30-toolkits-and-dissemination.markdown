@@ -7,7 +7,6 @@ tags:
 - toolkit
 ---
 
-![toolkits.jpeg](/Users/salil/Documents/GitHub/burnedsap.github.io/media/toolkits.jpeg)
 
 The trickiest, but arguably the funnest bit of the project. Yes, funnest. Initially I had started off this project envisioning a toolkit as the end result. But what exactly is a toolkit? More accurately, a method toolkit is a collection of exercises and activities designed to propogate knowledge and scale impact of the same. Research and experiments conducted in one place are usually packaged into a toolkit in an attempt to replicate impact at scale.
 
