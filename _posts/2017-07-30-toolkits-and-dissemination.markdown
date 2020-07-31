@@ -7,6 +7,8 @@ tags:
 - toolkit
 ---
 
+![toolkits.jpeg](/Users/salil/Documents/GitHub/burnedsap.github.io/media/toolkits.jpeg)
+
 The trickiest, but arguably the funnest bit of the project. Yes, funnest. Initially I had started off this project envisioning a toolkit as the end result. But what exactly is a toolkit? More accurately, a method toolkit is a collection of exercises and activities designed to propogate knowledge and scale impact of the same. Research and experiments conducted in one place are usually packaged into a toolkit in an attempt to replicate impact at scale.
 
 The aim is not to teach a man how to fish. The aim is to teach a man to teach himself how to fish. Toolkits are supposed to let the on-ground team replicate the methods used in the successful pilot. Although guided workshops are hosted to teach the process of using the toolkit, the onus is on the toolkit itself to be accessible enough to disseminate the information. Having read the wonderful essays by Akshay and Quicksand on toolkits, I’ve started to reconsider my approach toward a toolkit.
