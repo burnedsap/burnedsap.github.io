@@ -1,11 +1,13 @@
 ---
 title: Toolkits and Dissemination
-date: 2017-07-30 00:50:00 +05:30
-categories:
-- opinion
-tags:
-- toolkit
+date: 'Sun Jul 30 2017 00:50:00 GMT+0530 (IST)'
+categories: opinion
+tags: toolkit
+published: true
+layout: post
+author: Salil
 ---
+![toolkits.jpeg]({{site.baseurl}}/assets/toolkits.jpeg)
 
 
 The trickiest, but arguably the funnest bit of the project. Yes, funnest. Initially I had started off this project envisioning a toolkit as the end result. But what exactly is a toolkit? More accurately, a method toolkit is a collection of exercises and activities designed to propogate knowledge and scale impact of the same. Research and experiments conducted in one place are usually packaged into a toolkit in an attempt to replicate impact at scale.
