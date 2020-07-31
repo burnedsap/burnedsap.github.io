@@ -1,18 +1,15 @@
 ---
 title: The Mac is dead. Long live the Mac.
-date: 2019-07-30 00:50:00 +05:30
-categories:
-- opinion
-tags:
-- mac
-- computers
-- intel
-- arm
-image: "/uploads/arm-mac-15db7d.png"
+date: 'Tue Jul 30 2019 00:50:00 GMT+0530 (IST)'
+categories: opinion
+tags: 'mac,computers,intel,arm'
+image: /uploads/arm-mac-15db7d.png
 layout: post
+published: true
+author: Salil
 ---
+![arm-mac.png]({{site.baseurl}}/assets/arm-mac.png)
 
-![arm-mac.png]({{site.baseurl}}/_posts/arm-mac.png)
 
 
 So this is it. The end of an era. Intel has seemingly confirmed that they will lose Apple as a customer in the next couple of years, possibly from 2020 onwards. This is a very exciting time for the Mac. Just like the switch from PowerPC to Intel, this is a major change which will herald a massive change in the world of personal computers, and could possibly redefine the very definition of a personal computer.
