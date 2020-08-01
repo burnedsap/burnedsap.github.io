@@ -25,4 +25,3 @@ So I started printing these values out, in simple shapes and forms to see what s
 It is fascinating no doubt, but it seemed to lack something important. These visuals were too static. Sound is an active phenomenon, always changing, full of energy and life. To inject that spark of life into the visualisations, I switched tack and started work on visualising sound, rather than printing static images.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lY9FNQ2zu8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
