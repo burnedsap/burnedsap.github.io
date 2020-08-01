@@ -11,7 +11,7 @@ Over the last few years, I've been trying to play with data, and extrapolate mea
 
 Sound is a very strange medium. I've always thought of sound as a very powerful tool, which can affect my emotional experiences deeply. We hear sound when our eardrums "feel" the vibrations of the air around us, and perceive that to be sound. A combination of sounds forms a musical composition. Many tend to hear music, or feel it. But I've started to see music in a different perspective. To show you what I mean, this is what music looks to me nowadays:
 
-![ff-image.png]({{site.baseurl}}/assets/ff-image.png)
+![ff-image.png]({{site.baseurl}}/assets/ff-image.png)*FFT Analysis of Moonlight by Alex Lustig*
 
 The numbers are a result of an FFT analysis of the sound. FFT, also known as Fast Fourier transform, breaks down the sound into its individual frequencies, which is what you see above. These numbers are the components of the music you hear, defining each vibration that enters your ear. The thought of music, which is so powerful and often indescribable, being broken down into numbers is so exciting and fascinating. Quantifying something which can't be easily described.
 
@@ -32,7 +32,7 @@ In every experiment, most of my efforts went into massaging the values, working 
 
 To push myself, I took up the 36 Days of Type challenge to see how I could creatively visualise the data derived from sound everyday. The goal was to use the data differently for every letter, and start using increasing levels of intelligence, by giving the sound more autonomy in creating visuals.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/xEMqUubhzL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xEMqUubhzL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*Music : T-Rex-Genuine Color*
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zg-CE5OOfD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
