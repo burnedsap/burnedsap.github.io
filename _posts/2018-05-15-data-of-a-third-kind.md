@@ -34,7 +34,7 @@ To push myself, I took up the 36 Days of Type challenge to see how I could creat
 
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/xEMqUubhzL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*Music : T-Rex-Genuine Color*
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/zg-CE5OOfD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zg-CE5OOfD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*Music by Eh-Fhin*
 
 I’ve just started to scratch the surface on the possibilities here, and I still have to start analysing sound a lot more deeply to understand the smaller nuances. But the process of doing is truly very enjoyable, and it is fascinating to see how minor changes in frequency can dramatically alter the impact of sounds.
 
@@ -42,6 +42,6 @@ By affecting the manner in which the values change, the visuals can be dramatica
 
 Whoever said mathematics isn’t fun?
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/gsAdXX9vbmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gsAdXX9vbmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*Music : Neptune by Donny Hills*
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/dYE8p7xdZaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dYE8p7xdZaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*Music : NUDE by Wolves(ft. Kurus)*
