@@ -18,9 +18,9 @@ The numbers are a result of an FFT analysis of the sound. FFT, also known as Fas
 Now that we have these values, what do we do with them? Using Processing, I started experimenting with printing music, and making sound visible. These values are the bridge between hearing something and visualising it. The frequencies described in this dataset are exactly what you hear, so it stands to reason that these values might also be equally useful when trying to "see" sounds.
 So I started printing these values out, in simple shapes and forms to see what sounds looks like.
 
-![1*ZEfyQ44CPXoxalPqelZA9w.jpeg]({{site.baseurl}}/assets/1*ZEfyQ44CPXoxalPqelZA9w.jpeg)
-![1*_kvBk7ZEC7ew8-f2DgCK2g.png]({{site.baseurl}}/assets/1*_kvBk7ZEC7ew8-f2DgCK2g.png)
-![1*bxHmqwdG7pz3LOvqR_zRHg.png]({{site.baseurl}}/assets/1*bxHmqwdG7pz3LOvqR_zRHg.png)
+![waves.jpeg]({{site.baseurl}}/assets/waves.jpeg)
+
+
 
 It is fascinating no doubt, but it seemed to lack something important. These visuals were too static. Sound is an active phenomenon, always changing, full of energy and life. To inject that spark of life into the visualisations, I switched tack and started work on visualising sound, rather than printing static images.
 
