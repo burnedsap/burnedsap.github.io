@@ -19,6 +19,8 @@ Now that we have these values, what do we do with them? Using Processing, I star
 So I started printing these values out, in simple shapes and forms to see what sounds looks like.
 
 ![waves.jpeg]({{site.baseurl}}/assets/waves.jpeg)
+![radial.png]({{site.baseurl}}/assets/radial.png)
+![frequency.png]({{site.baseurl}}/assets/frequency.png)
 
 
 
