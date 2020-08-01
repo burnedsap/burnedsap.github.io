@@ -22,8 +22,26 @@ So I started printing these values out, in simple shapes and forms to see what s
 ![radial.png]({{site.baseurl}}/assets/radial.png)
 ![frequency.png]({{site.baseurl}}/assets/frequency.png)
 
-
-
 It is fascinating no doubt, but it seemed to lack something important. These visuals were too static. Sound is an active phenomenon, always changing, full of energy and life. To inject that spark of life into the visualisations, I switched tack and started work on visualising sound, rather than printing static images.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lY9FNQ2zu8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I could finally see progress now. There’s still a lot of work to be done, but this was a step in the right direction. The energy of the sound I was hearing was finally starting to make itself seen. The visuals looked like they had life in them.
+
+In every experiment, most of my efforts went into massaging the values, working with mathematical functions and logic gates to induce small amounts of intelligence into the code to allow sound to control the visuals. I didn’t want to get in the way of the sound producing visuals. I simply gave it some rules and restrictions to follow, and let the sound dictate everything else. It is amazing to see how mathematics and logic play such a big role in understanding and creating sound and visuals, the mainstays of traditional art.
+
+To push myself, I took up the 36 Days of Type challenge to see how I could creatively visualise the data derived from sound everyday. The goal was to use the data differently for every letter, and start using increasing levels of intelligence, by giving the sound more autonomy in creating visuals.
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/xEMqUubhzL4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/zg-CE5OOfD8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+I’ve just started to scratch the surface on the possibilities here, and I still have to start analysing sound a lot more deeply to understand the smaller nuances. But the process of doing is truly very enjoyable, and it is fascinating to see how minor changes in frequency can dramatically alter the impact of sounds.
+
+By affecting the manner in which the values change, the visuals can be dramatically altered. The more intricately the values are calculated and managed, the more detailed the visuals can get. It’s a bit like mathematical surgery, fine-tuning the values and mathematical functions to get the desired results.
+
+Whoever said mathematics isn’t fun?
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gsAdXX9vbmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dYE8p7xdZaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
