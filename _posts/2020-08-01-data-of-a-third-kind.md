@@ -24,7 +24,7 @@ So I started printing these values out, in simple shapes and forms to see what s
 
 It is fascinating no doubt, but it seemed to lack something important. These visuals were too static. Sound is an active phenomenon, always changing, full of energy and life. To inject that spark of life into the visualisations, I switched tack and started work on visualising sound, rather than printing static images.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lY9FNQ2zu8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lY9FNQ2zu8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 I could finally see progress now. There’s still a lot of work to be done, but this was a step in the right direction. The energy of the sound I was hearing was finally starting to make itself seen. The visuals looked like they had life in them.
 
@@ -42,6 +42,6 @@ By affecting the manner in which the values change, the visuals can be dramatica
 
 Whoever said mathematics isn’t fun?
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gsAdXX9vbmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/gsAdXX9vbmg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dYE8p7xdZaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/dYE8p7xdZaM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
