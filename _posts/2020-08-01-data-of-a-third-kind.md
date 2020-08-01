@@ -22,3 +22,7 @@ So I started printing these values out, in simple shapes and forms to see what s
 ![1*_kvBk7ZEC7ew8-f2DgCK2g.png]({{site.baseurl}}/assets/1*_kvBk7ZEC7ew8-f2DgCK2g.png)
 ![1*bxHmqwdG7pz3LOvqR_zRHg.png]({{site.baseurl}}/assets/1*bxHmqwdG7pz3LOvqR_zRHg.png)
 
+It is fascinating no doubt, but it seemed to lack something important. These visuals were too static. Sound is an active phenomenon, always changing, full of energy and life. To inject that spark of life into the visualisations, I switched tack and started work on visualising sound, rather than printing static images.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lY9FNQ2zu8Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
