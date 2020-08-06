@@ -7,8 +7,6 @@ title: 'Video Game Histories: Burned Sky'
 categories: video game histories
 tags: 'games, burned sky, history'
 ---
-Video Game Histories: Burned Sky
-
 I've been wanting to write about video games for a while now, and so perhaps there's no better place to start than from the very beginning of my video game history. I didn't get to play very many video games when I was young, however there were a few standout games that I still remember to this day, vividly even. One of these games is called Burned Sky. As you may have caught on by now already, my online moniker is in part inspired by this game, and in part due to a complete lack of creativity.
 
 Burned Sky is a very special game for me. A very good friend and I used to play it for hours on end in his bedroom, driven on by the sugar rush of Coca Cola and Limca. It was a simple game, and perhaps it was the simiplicity that we enjoyed. I distinctly remember it being played off from a CD-Disk with a distinct yellow cover. The game revolves around a rebel force of which you're a pilot, and posses a very powerful fighter plane. Your goal is to use your plane to defeat the incumbent powers by destroying their various watchtowers, missile launchers, and fighter planes. The controls were just as primitive as the story, Up-Down-Left-Right to control the fighter, and Control-Z-X-C to fire the various weapons.
