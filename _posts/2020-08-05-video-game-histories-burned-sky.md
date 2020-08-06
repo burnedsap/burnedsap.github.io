@@ -44,37 +44,37 @@ I asked him some questions regarding the development of the game, and I'll paste
 
 > Alexander: Burned Sky was my very first project as a game graphics designer. Me and my fellow students were working on it for a couple of weeks when we studied at university, entitled our small partnership as 'Digital Fantasy' and tried to self-produce the game through some websites. As I remember, it was released in 2003, seventeen years ago. Anyway, it had almost zero financial profit (frankly, the game is kind of trashy). So unfortunately, there was no "full version", the game you played is the only one that was released.
 
-> Salil: I wanted to understand the context behind Burned Sky, and how it came together. What was the planning like and how did you figure out the final story and design of the game?
+> **Salil**: _I wanted to understand the context behind Burned Sky, and how it came together. What was the planning like and how did you figure out the final story and design of the game?_
 > 
-> Alexander: As it was our first project, the planning was really simple: we decided to make a game that we could handle with our limited skills. So it should not take too long to develop (short term is really important, because indie developers loose motivation quickly), be technically simple and have some sort of automation in terms of gameplay building. I don't quite remember who came up with the idea of 2D shooter, but our programmer Sergey said that he can handle coding 2D sprite engine with 1-bit transparency (not a commonly used 8-bit alpha-channel). 
+> **Alexander**: As it was our first project, the planning was really simple: we decided to make a game that we could handle with our limited skills. So it should not take too long to develop (short term is really important, because indie developers loose motivation quickly), be technically simple and have some sort of automation in terms of gameplay building. I don't quite remember who came up with the idea of 2D shooter, but our programmer Sergey said that he can handle coding 2D sprite engine with 1-bit transparency (not a commonly used 8-bit alpha-channel). 
 > 
 > So we agreed that it should be a game with aircraft that flies around and shoots, and I got to the graphics straight away. There was no story behind it at first, I just created 3D models and textures and we tried to make it work and look nice. The story actually came later, when I assembled levels and pre-level screens. We needed to add some explanation on the mission objective, so I came up with short text intros that finally became some kind of a plot. Noone actually took this seriously, so the story is almost non-existent and shallow. I guess that "Rebels of Army of Liberation" was added to the game description at publishing, there are no such details in the game at all.
 > 
-> Salil: I found a version of the game in 2002 via waybackmachine on [alivegames.com](http://alivegames.com/), see screenshot below. Were there any other versions of the game, or updates released after the first version?
+> **Salil**: _I found a version of the game in 2002 via waybackmachine on [alivegames.com](http://alivegames.com/), see screenshot below. Were there any other versions of the game, or updates released after the first version?_
 > 
-> Alexander: Alive Games is a publisher company – two local guys that tried to make some money on selling indie games, and we gave them Burned Sky for publishing. In a previous email I mentioned that the game was released in 2003, well, I may not remember this quite correctly and admit that it was 2002. 
+> **Alexander**: Alive Games is a publisher company – two local guys that tried to make some money on selling indie games, and we gave them Burned Sky for publishing. In a previous email I mentioned that the game was released in 2003, well, I may not remember this quite correctly and admit that it was 2002. 
 > 
 > As I mentioned earlier, there were no other versions. I think that the game was simply stripped down and provided access to all levels after you buy the 'full version', but you still can see all pre-level screens in the graphics folder (they are not even compressed), so you can see what is the actual game size is (it was 10 levels in total, if I remember right). I'm also not quite sure how the game was protected, but I think that you simply got the missing level data files when bought a 'full version'.
 > 
 > Our director Eugene also released Burned Sky Shooter a bit later – a mini-game with a similar name. It had nothing in common with Burned Sky, except for the graphic sprites, and actually was a Space Invaders-like shooting action that ran directly over your desktop.
 > 
-> Salil: How long did it take to make the game, and did you use a game engine to make the game?
+> **Salil**: _How long did it take to make the game, and did you use a game engine to make the game?_
 > 
-> Alexander: Everything took two or three weeks. We did not use any ready engine, Sergey wrote something himself. I believe the game used DirectX Windows API, and bitmap sprites for aircrafts positions (different rotation angles), and uses a key color to indicate transparency. So the engine does not even rotate the sprites, just draws them. Really primitive.
+> **Alexander**: Everything took two or three weeks. We did not use any ready engine, Sergey wrote something himself. I believe the game used DirectX Windows API, and bitmap sprites for aircrafts positions (different rotation angles), and uses a key color to indicate transparency. So the engine does not even rotate the sprites, just draws them. Really primitive.
 > 
 > To assemble levels, we created a small application that allowed to open/create level file, specify level size (like 64x64 tiles), draw with different tiles on the map and save.
 > 
 > All coding was done in Delphi/Pascal. Not a regular choice for gamedev, but Delphi was popular those days for ease of entry and rapid development.
 > 
-> Salil: Were there any other ideas for the game? Do you still have the art for this game, or any other rejected ideas/concepts?
+> **Salil**: _Were there any other ideas for the game? Do you still have the art for this game, or any other rejected ideas/concepts?_
 > 
-> Alexander: There were no sketches, tryouts, on unaccepted versions. I simply created models in 3DSMax using my experience as a 3D-modelling hobbyist, rendered them and tried to make them as good as I could at the moment. Others had even less expertise in graphics, so there was no criticism and everything that was done got right into the game. The same is for the programming part: Sergey was working on the engine and others did not affect his work much. We all wanted to create something finished, and did not care much about polishing and perfection – we simply did not have enough skills to do anything significantly better. 
+> **Alexander**: There were no sketches, tryouts, on unaccepted versions. I simply created models in 3DSMax using my experience as a 3D-modelling hobbyist, rendered them and tried to make them as good as I could at the moment. Others had even less expertise in graphics, so there was no criticism and everything that was done got right into the game. The same is for the programming part: Sergey was working on the engine and others did not affect his work much. We all wanted to create something finished, and did not care much about polishing and perfection – we simply did not have enough skills to do anything significantly better. 
 > 
 > The only thing that was tweaked a bit is gameplay – the aircraft acceleration, max speed, set of weapons, how they work and how much power they have. We wanted to achieve a playable result that was fun, but still challenging. Not sure that we have dialed it perfectly )
 > 
 > As for the art, I think it is gone with my old computer. I did not back up anything then (now I do), and lost a lot of my early 3D artwork and other stuff. That is also the reason I cannot recall the dates perfectly: I'm used to rely on records and file creation dates, but do not have them now.
 > 
-> Salil: What are the other game projects you were later involved with? Any exciting ones you'd like to share?
+> **Salil**: _What are the other game projects you were later involved with? Any exciting ones you'd like to share?_
 > 
 > Alexander: The next project with Digital Fantasy was Treasure Hunter: [Treasure Hunter - Free download and software reviews - CNET Download.com](https://download.cnet.com/Treasure-Hunter/3000-2099_4-10414780.html) 
 > 
@@ -93,9 +93,9 @@ I asked him some questions regarding the development of the game, and I'll paste
 > - Sacranta – not sure if it was released (I quit Funlime Games at the end of development), but I have an almost complete playable version.
 >   
 > 
-> Salil: Whatever happened to the other team members? I can't seem to find them online.
+> **Salil**: _Whatever happened to the other team members? I can't seem to find them online._
 > 
-> Alexander The guys are fine :) As far as I know, Sergey and Eugene did not work on any games after that, except for Treasure Hunter (it was done by me and Eugene) and Burned Sky Shooter (Eugene's mini-project). They went into business applications development and management.
+> **Alexander** The guys are fine :) As far as I know, Sergey and Eugene did not work on any games after that, except for Treasure Hunter (it was done by me and Eugene) and Burned Sky Shooter (Eugene's mini-project). They went into business applications development and management.
 > 
 > So among us three, I had the most experience in gamedev (still pretty humble though), but finally quit Funlime games in 2007 and switched to web and mobile UI design.
 
