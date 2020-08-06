@@ -40,8 +40,8 @@ I wrote to Alexander and I got a very positive reply within a day, and he really
 
 I asked him some questions regarding the development of the game, and I'll paste them below verbatim to put them in context.
 
-> Alexander: Burned Sky was my very first project as a game graphics designer. Me and my fellow students were working on it for a couple of weeks when we studied at university, entitled our small partnership as 'Digital Fantasy' and tried to self-produce the game through some websites. As I remember, it was released in 2003, seventeen years ago. Anyway, it had almost zero financial profit (frankly, the game is kind of trashy). So unfortunately, there was no "full version", the game you played is the only one that was released.
-
+> **Alexander**: Burned Sky was my very first project as a game graphics designer. Me and my fellow students were working on it for a couple of weeks when we studied at university, entitled our small partnership as 'Digital Fantasy' and tried to self-produce the game through some websites. As I remember, it was released in 2002, eighteen years ago. Anyway, it had almost zero financial profit (frankly, the game is kind of trashy). So unfortunately, there was no "full version", the game you played is the only one that was released.
+>
 > **Salil**: _I wanted to understand the context behind Burned Sky, and how it came together. What was the planning like and how did you figure out the final story and design of the game?_
 > 
 > **Alexander**: As it was our first project, the planning was really simple: we decided to make a game that we could handle with our limited skills. So it should not take too long to develop (short term is really important, because indie developers loose motivation quickly), be technically simple and have some sort of automation in terms of gameplay building. I don't quite remember who came up with the idea of 2D shooter, but our programmer Sergey said that he can handle coding 2D sprite engine with 1-bit transparency (not a commonly used 8-bit alpha-channel). 
@@ -50,7 +50,7 @@ I asked him some questions regarding the development of the game, and I'll paste
 > 
 > **Salil**: _I found a version of the game in 2002 via waybackmachine on [alivegames.com](http://alivegames.com/), see screenshot below. Were there any other versions of the game, or updates released after the first version?_
 > 
-> **Alexander**: Alive Games is a publisher company – two local guys that tried to make some money on selling indie games, and we gave them Burned Sky for publishing. In a previous email I mentioned that the game was released in 2003, well, I may not remember this quite correctly and admit that it was 2002. 
+> **Alexander**: Alive Games is a publisher company – two local guys that tried to make some money on selling indie games, and we gave them Burned Sky for publishing.
 > 
 > As I mentioned earlier, there were no other versions. I think that the game was simply stripped down and provided access to all levels after you buy the 'full version', but you still can see all pre-level screens in the graphics folder (they are not even compressed), so you can see what is the actual game size is (it was 10 levels in total, if I remember right). I'm also not quite sure how the game was protected, but I think that you simply got the missing level data files when bought a 'full version'.
 > 
@@ -68,13 +68,13 @@ I asked him some questions regarding the development of the game, and I'll paste
 > 
 > **Alexander**: There were no sketches, tryouts, on unaccepted versions. I simply created models in 3DSMax using my experience as a 3D-modelling hobbyist, rendered them and tried to make them as good as I could at the moment. Others had even less expertise in graphics, so there was no criticism and everything that was done got right into the game. The same is for the programming part: Sergey was working on the engine and others did not affect his work much. We all wanted to create something finished, and did not care much about polishing and perfection – we simply did not have enough skills to do anything significantly better. 
 > 
-> The only thing that was tweaked a bit is gameplay – the aircraft acceleration, max speed, set of weapons, how they work and how much power they have. We wanted to achieve a playable result that was fun, but still challenging. Not sure that we have dialed it perfectly )
+> The only thing that was tweaked a bit is gameplay – the aircraft acceleration, max speed, set of weapons, how they work and how much power they have. We wanted to achieve a playable result that was fun, but still challenging. Not sure that we have dialed it perfectly :)
 > 
 > As for the art, I think it is gone with my old computer. I did not back up anything then (now I do), and lost a lot of my early 3D artwork and other stuff. That is also the reason I cannot recall the dates perfectly: I'm used to rely on records and file creation dates, but do not have them now.
 > 
 > **Salil**: _What are the other game projects you were later involved with? Any exciting ones you'd like to share?_
 > 
-> Alexander: The next project with Digital Fantasy was Treasure Hunter: [Treasure Hunter - Free download and software reviews - CNET Download.com](https://download.cnet.com/Treasure-Hunter/3000-2099_4-10414780.html) 
+> **Alexander**: The next project with Digital Fantasy was Treasure Hunter: [Treasure Hunter - Free download and software reviews - CNET Download.com](https://download.cnet.com/Treasure-Hunter/3000-2099_4-10414780.html) 
 > 
 > Treasure Hunter is also kind of trashy and not really playable (insanely hard!), but it's in 3D. I also have an archive with the full version. It still can be run, but works weirdly on modern graphics cards.
 > 
@@ -93,7 +93,7 @@ I asked him some questions regarding the development of the game, and I'll paste
 > 
 > **Salil**: _Whatever happened to the other team members? I can't seem to find them online._
 > 
-> **Alexander** The guys are fine :) As far as I know, Sergey and Eugene did not work on any games after that, except for Treasure Hunter (it was done by me and Eugene) and Burned Sky Shooter (Eugene's mini-project). They went into business applications development and management.
+> **Alexander**: The guys are fine :) As far as I know, Sergey and Eugene did not work on any games after that, except for Treasure Hunter (it was done by me and Eugene) and Burned Sky Shooter (Eugene's mini-project). They went into business applications development and management.
 > 
 > So among us three, I had the most experience in gamedev (still pretty humble though), but finally quit Funlime games in 2007 and switched to web and mobile UI design.
 
