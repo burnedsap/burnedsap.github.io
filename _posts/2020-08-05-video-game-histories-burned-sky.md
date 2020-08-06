@@ -93,8 +93,6 @@ I asked him some questions regarding the development of the game, and I'll paste
 > - Sacranta – not sure if it was released (I quit Funlime Games at the end of development), but I have an almost complete playable version.
 >   
 > 
-> Attaching some screenshots
-> 
 > Salil: Whatever happened to the other team members? I can't seem to find them online.
 > 
 > Alexander The guys are fine :) As far as I know, Sergey and Eugene did not work on any games after that, except for Treasure Hunter (it was done by me and Eugene) and Burned Sky Shooter (Eugene's mini-project). They went into business applications development and management.
