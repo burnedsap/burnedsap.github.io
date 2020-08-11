@@ -97,4 +97,6 @@ I asked him some questions regarding the development of the game, and I'll paste
 > 
 > So among us three, I had the most experience in gamedev (still pretty humble though), but finally quit Funlime games in 2007 and switched to web and mobile UI design.
 
+You can download the game here: http://www.alivegames.com/burned_sky/
+
 It was great to finally understand the context and speak with one of the developers behind on my favourite games. Next up: Skies of War.
